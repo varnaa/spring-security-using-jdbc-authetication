@@ -1,0 +1,6 @@
+#FileLock
+#Mon Jun 22 12:37:38 IST 2020
+server=192.168.0.106\:43373
+hostName=varnaa
+method=file
+id=172dada967909f04a415cd09647befa6166526a0c96
